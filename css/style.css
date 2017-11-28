@@ -31,6 +31,10 @@ h5 {
   text-align: center; 
 }
 
+.my-center {
+  text-align: center;  
+}
+
 @media print {
   
   nav,
@@ -38,9 +42,6 @@ h5 {
     display: none;
   }
   
-  .my-center {
-    
-  }
   
   body {
     -webkit-column-count: 1;
