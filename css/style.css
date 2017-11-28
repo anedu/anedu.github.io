@@ -1,21 +1,10 @@
 .my-footer {
-  background-attachment: fixed;
-  background-image: -webkit-linear-gradient(right top, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: -moz-linear-gradient(right top, rgba( 240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: -o-linear-gradient(right top, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: linear-gradient(to left bottom, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-
   text-align: center;
   font-size: 20px;
   height: 400px;
 }
 
 nav {
-  background-attachment: fixed;
-  background-image: -webkit-linear-gradient(right top, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: -moz-linear-gradient(right top, rgba( 240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: -o-linear-gradient(right top, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
-  background-image: linear-gradient(to left bottom, rgba(240, 255, 240, .25), rgba(144, 238, 144, .75)), url(https://static.pexels.com/photos/33707/flowers-meadow-wood-forest.jpg);
   height: 100px;
 }
 
