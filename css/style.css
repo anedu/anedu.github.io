@@ -1,9 +1,6 @@
 .my-footer {
   background-attachment: fixed;
   background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
 
   text-align: center;
   font-size: 20px;
@@ -12,9 +9,6 @@
 
 nav {
   background-attachment: fixed;
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
-  background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
   background-image: blue url(https://raw.githubusercontent.com/anedu/anedu.github.io/master/background.png);
   height: 100px;
 }
