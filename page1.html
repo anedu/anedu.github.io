@@ -14,7 +14,7 @@
 <body>
   <!-- Навигация -->
   <nav>
-    <div class="nav-wrapper my-footer">
+    <div class="nav-wrapper">
       <a href="index.html" class="brand-logo">Главная</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.html" class="waves-effect waves-light btn-large">Главная</a></li>
@@ -163,6 +163,17 @@
       $('.carousel').carousel();
     });   
   </script>
+
+  <script>
+    var response = prompt('Ввведите пароль:');
+
+    while(response != '123') {
+      response = prompt('Введите пароль:');
+    }
+
+    alert('Правильно. Спасибо!')
+  </script>
+
 
   </body>
 </html>
